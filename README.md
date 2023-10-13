@@ -1,4 +1,4 @@
-AI Project for SWE 485 | G1 | Student Performance Prediction
+# AI Project for SWE 485 | G1 | Student Performance Prediction
 
 Member Information :
 
